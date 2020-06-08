@@ -19,9 +19,10 @@ Follow these steps:
 3. Use `cd` command to change directory into the cloned repository
 4. Use `composer install` command to install the dependencies
 5. Use `php artisan serve` command to run PHP built-in server
-6. Change the config inside `config/receiptprinter.php` according to your own environment, e.g the `connector_descriptor` should be your printer name
-7. Open your web browser and point to: `http://127.0.0.1/print/test`
-8. A sample receipt should be printed on your receipt printer
+6. Make sure that a receipt printer has been connected to your computer
+7. Change the config inside `config/receiptprinter.php` according to your own environment, e.g the `connector_descriptor` should be your printer name
+8. Open your web browser and point to: `http://127.0.0.1/print/test`
+9. A sample receipt should be printed on your receipt printer
 
 ## About Laravel
 

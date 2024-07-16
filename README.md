@@ -5,9 +5,9 @@
 This is a Laravel web app serving as an example to use the [Laravel Receipt Printer package](https://github.com/charlieuki/receipt-printer).
 
 I have tested this app successfully in the following environment:
-- macOS 10.13.6 (High Sierra)
-- PHP 7.4.6
-- Laravel 7.0
+- macOS 14.5 (Sonoma)
+- PHP 8
+- Laravel 10
 - Epson TM-T82 receipt printer, connected via USB
 
 ## Usage

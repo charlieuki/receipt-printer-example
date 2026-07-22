@@ -6,8 +6,8 @@ This is a Laravel web app serving as an example to use the [Laravel Receipt Prin
 
 I have tested this app successfully in the following environment:
 - macOS 14.5 (Sonoma)
-- PHP 8
-- Laravel 10
+- PHP 8.2
+- Laravel 12
 - Epson TM-T82 receipt printer, connected via USB
 
 ## Usage
